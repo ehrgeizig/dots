@@ -48,3 +48,4 @@
   - <a style="text-decoration: none;" href="https://stackoverflow.com/users/2836621/mark-setchell">Mark Setchell</a>
   - <a style="text-decoration: none;" href="https://github.com/uwussimo">Uwussimo</a>
   - <a style="text-decoration: none;" href="https://github.com/legendlife">legendlife</a>
+  - <a style="text-decoration: none;" href="https://github.com/dexpota">legendlife</a>
