@@ -24,6 +24,7 @@
 | Super + Shift + [Up,Down,Left,Right] | swap window |
 
 # Included
+  - Window Manager: bspwm
   - Bar: polybar
   - Compositor: picom
   - Font: JetBrains Mono, Material
@@ -32,8 +33,7 @@
   - ScreenShot: flameshot
   - Shell: bash, zsh
   - Terminal: kitty, alacritty
-  - TextEditor: 
-  - WindowManager: bspwm
+  - TextEditor: vim, nano
 
 ## Others
   - ColorScheme: [Catppuccin](https://github.com/catppuccin)
@@ -42,7 +42,7 @@
   - ImageViewer: feh
   - TextEditor: vim, nano
   - WebBrowser: Firefox
-## Credits to:
+## I borrowed some codes from:
   - <a style="text-decoration: none;" href="https://github.com/theCode-Breaker">theCode-Breaker</a>
   - <a style="text-decoration: none;" href="https://github.com/adi1090x">adi1090x</a>
   - <a style="text-decoration: none;" href="https://stackoverflow.com/users/2836621/mark-setchell">Mark Setchell</a>
