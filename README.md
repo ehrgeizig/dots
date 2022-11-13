@@ -1,28 +1,6 @@
 <h1 align="center">Dotfiles</h1>
 <h4 align="center">dotfiles by Consectaneus</h4>
 
-<p align="center">
-  <img src="">
-</p>
-
-# KeyBinds
-| Key | Action |
-| ----- | ----- |
-| Super + Return | kitty |
-| Super + b | firefox |
-| Super + r | rofi |
-| Print | screenshot menu |
-| Super + x | power menu |
-| Super + [1-9] | focus desktop 1-9 |
-| Super + Shift + [1-9] | move window to desktop 1-9 |
-| Alt + Tab | toggle window focus |
-| Super + Tab | toggle floating/tiling |
-| Super + q | kill focused window |
-| Super + space | toggle fullscreen |
-| Super + m | toggle monocle |
-| Super + Arrow [Up,Down,Left,Right] | resize window |
-| Super + Shift + [Up,Down,Left,Right] | swap window |
-
 # Included
   - Window Manager: bspwm
   - Bar: polybar
