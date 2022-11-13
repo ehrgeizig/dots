@@ -35,7 +35,7 @@ for i in ${floats[@]}; do
 killall -9 picom sxhkd dunst nm-applet ksuperkey xfce4-power-manager
 
 # Launch notification daemon
-dunst -config $HOME/.config/bspwm/dunstrc &
+dunst -config $HOME/.config/dunst/dunstrc &
 
 # Enable Super Keys For Menu
 ksuperkey -e 'Super_L=Alt_L|F1' &
