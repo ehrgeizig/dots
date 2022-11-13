@@ -4,13 +4,11 @@
   - Window Manager: bspwm
   - Bar: polybar
   - Compositor: picom
-  - Font: JetBrains Mono, Material
+  - Font: JetBrains Mono
   - Menus: rofi
   - Notification: dunst
-  - ScreenShot: flameshot
-  - Shell: bash, zsh
-  - Terminal: kitty, alacritty
-  - TextEditor: vim, nano
+  - Shell: zsh
+  - Terminal: kitty
 
 ## Others
   - ColorScheme: [Catppuccin](https://github.com/catppuccin)
