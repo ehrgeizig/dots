@@ -14,7 +14,7 @@
   - Terminal: kitty
 
 ## Others
-  - ColorScheme: [Catppuccin](https://github.com/catppuccin)
+  - ColorScheme: not [Catppuccin](https://github.com/catppuccin)
   - Fetch: [fetch](https://github.com/Manas140/fetch)
   - FileManager: Thunar 
   - ImageViewer: feh
