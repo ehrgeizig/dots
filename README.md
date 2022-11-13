@@ -1,5 +1,4 @@
-<h1 align="center">Dotfiles</h1>
-<h4 align="center">dotfiles by Consectaneus</h4>
+<h2 align="center">My arch rice</h2>
 
 # Included
   - Window Manager: bspwm
