@@ -1,0 +1,60 @@
+[module/volume]
+type = internal/pulseaudio
+use-ui-max = true
+interval = 5
+format-volume = <ramp-volume> <label-volume>
+format-volume-padding = 1 
+format-muted = 婢 Muted
+format-muted-padding = 1
+label-volume = %percentage%%
+ramp-volume-0 = 奄
+ramp-volume-1 = 奔
+ramp-volume-2 = 墳
+ramp-headphones-0 = 
+ramp-headphones-1 = 
+ramp-volume-foreground = ${color.pink}
+ramp-headphones-foreground = ${color.purple}
+label-volume-foreground = ${color.pink}
+format-muted-foreground = ${color.red}
+
+[module/backlight]
+type = internal/backlight
+card = ${system.graphics_card}
+enable-scroll = true
+format = <ramp> <label>
+format-padding = 1
+label = %percentage%%
+label-foreground = ${color.yellow}
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-3 =  
+ramp-4 = 
+ramp-5 = 
+ramp-6 = 
+ramp-foreground = ${color.yellow}
+
+[module/network]
+type = internal/network
+interface = wlan0
+interval = 3.0
+unknown-as-up = true
+format-connected-foreground = ${color.foreground}
+format-connected-padding = 1
+label-connected = " "
+format-disconnected-foreground = ${color.foreground}
+format-disconnected-padding = 1
+format-connected =  -C
+format-disconnected =  -D
+label-disconnected =""
+ramp-signal-foreground = ${color.pink}
+
+[module/date]
+type = custom/script
+exec = date "+%I:%M %p"
+interval = 1
+format = <label>
+label = %output%
+format-padding = 1
+format-prefix = " "
+format-foreground = ${color.green}
