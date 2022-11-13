@@ -1,5 +1,7 @@
 <h2 align="center">My arch rice</h2>
 
+![Preview](https://github.com/Consectaneus/dots/blob/main/rice.png?raw=true)
+
 # Included
   - Window Manager: bspwm
   - Bar: polybar
@@ -17,10 +19,9 @@
   - ImageViewer: feh
   - TextEditor: vim, nano
   - WebBrowser: Firefox
-## I borrowed some codes from:
+## Thanks to:
   - <a style="text-decoration: none;" href="https://github.com/theCode-Breaker">theCode-Breaker</a>
   - <a style="text-decoration: none;" href="https://github.com/adi1090x">adi1090x</a>
   - <a style="text-decoration: none;" href="https://stackoverflow.com/users/2836621/mark-setchell">Mark Setchell</a>
-  - <a style="text-decoration: none;" href="https://github.com/uwussimo">Uwussimo</a>
   - <a style="text-decoration: none;" href="https://github.com/legendlife">legendlife</a>
   - <a style="text-decoration: none;" href="https://github.com/dexpota">dexpota</a>
